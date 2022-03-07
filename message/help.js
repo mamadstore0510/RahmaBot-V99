@@ -21,16 +21,14 @@ ${runtime}
 
 *LIST MENU BOT*
 
-❏ ${prefix}menusimple
-❏ ${prefix}menusticker
-❏ ${prefix}menugroup
-❏ ${prefix}menusistem
-❏ ${prefix}menustore
-❏ ${prefix}menudownload
-❏ ${prefix}menugame
-❏ ${prefix}menurandom
-❏ ${prefix}menusearch
-❏ ${prefix}menuowner
+❏ ${prefix}simplemenu
+❏ ${prefix}stickermenu
+❏ ${prefix}groupmenu
+❏ ${prefix}sistemmenu
+❏ ${prefix}storemenu
+❏ ${prefix}downloadmenu
+❏ ${prefix}gamemenu
+❏ ${prefix}ownermenu
 `
 }
 
